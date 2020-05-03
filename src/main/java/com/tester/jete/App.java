@@ -1,13 +1,15 @@
 package com.tester.jete;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello Jete!" );
+
+public class App {
+    /**
+     * @Description //TODO
+     * @Date 2020/05/03 22:45
+     * @param args
+     * @return void
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello Jete!");
     }
 }
+
