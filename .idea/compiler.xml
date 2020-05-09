@@ -9,8 +9,8 @@
         <module name="jete" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jete" target="1.5" />
+    <bytecodeTargetLevel target="14">
+      <module name="jete" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
