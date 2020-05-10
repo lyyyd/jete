@@ -1,2 +1,15 @@
-jete
-jeté test testing testing-tools test-suite test-automation test-runner tests java-tests java-test java-testing jete end-to-end-testing e2e-testing e2e-tests
+<h3 align="center">
+  The web has evolved. Finally, testing has too.
+</h3>
+
+<p align="center">
+  Fast, easy and reliable testing for anything that runs in a browser.
+</p>
+
+
+<p align="center">
+    <i>A Java tool to automate end-to-end web testing.
+    <br/>
+    Write tests in Java, run them and view results.
+    </i>
+</p>
