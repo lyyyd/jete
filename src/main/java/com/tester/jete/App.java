@@ -38,7 +38,6 @@ public class App {
          * 是退出了所有Webdriver所有的窗口，退的非常干净，所以推荐使用quit最为一个case退出的方法。
          */
         driver.quit();//退出浏览器
-
     }
 }
 

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tester.jete.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-09T16:10:44" hostname="DESKTOP-EH9KLQ1" time="0.007">
+  <properties/>
+  <testcase name="testApp" classname="com.tester.jete.AppTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
